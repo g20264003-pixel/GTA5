@@ -1,0 +1,6 @@
+{
+  "name": "City Adventure Game",
+  "description": "An open world 2D top-down action adventure game inspired by GTA, featuring driving, stealing cars, wanted levels, weapons, shop interactions, and mission storylines. Fully responsive for both desktop and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
